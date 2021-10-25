@@ -1,2 +1,1 @@
-# Visualization_of_the_Isabel_hurricane
-Tool for 3D visualization of the wind and heat inside hurricane Isabel
+Application loads data of speed and direction of wind as well as temperatures around Florida when hurricane Isabel hit the area. It renders the motion of wind (in form of streamlines) and temperatures in space, which are visualized using cuts. User can freely move around the scene and let the streamlines simulate the wind in real time.
